@@ -1,0 +1,24 @@
+.userTable {
+    background: white;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 40px 0px;
+    margin-top: 30px;
+}
+
+th {
+    border-bottom: 1px solid #ccc;
+    font-size: 25px;
+}
+
+td {
+    border-bottom: 1px solid #ccc;
+    font-size: 20px;
+    padding: 15px 0px;
+}
+
+table {
+    width: 80%;
+}
