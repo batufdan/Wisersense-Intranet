@@ -1,0 +1,38 @@
+@page
+@model EditUserModel
+@{
+    ViewData["Title"] = "Edit User Page";
+    Layout = "_AdminTaskLayout";
+}
+
+<link rel="stylesheet" href="~/css/editUser.css">
+
+<div class="userTable">
+    <table>
+        <tr>
+            <th>Picture</th>
+            <th>Name Surname</th>
+            <th>Email</th>
+            <th>Birthdate</th>
+            <th>Admin Status</th>
+            <th></th>
+            <th></th>
+        </tr>
+        
+        @foreach(var user in @Model.Users) {
+            <tr>
+                <td>@user.image</td>
+                <td>@user.fullname</td>
+                <td>@user.email</td>
+                <td>@user.birthdate</td>
+                @if(user.admin == 1){
+                    <td>Authorized as Admin</td>
+                } else {
+                    <td>Normal Employee</td>
+                }
+                <td><a asp-page="/Admin/Edit" asp-route-type="edit" asp-route-sendEmail="@user.email"><i class="fas fa-edit"></i></a></td>
+                <td><a asp-page="" asp-route-type="delete" asp-route-sendEmail="@user.email"><i class="fa fa-trash" aria-hidden="true"></i></a></td>
+            </tr>
+        }
+    </table>
+</div>

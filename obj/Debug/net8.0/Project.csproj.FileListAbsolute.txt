@@ -1,0 +1,140 @@
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/appsettings.Development.json
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/appsettings.json
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Project.staticwebassets.runtime.json
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Project
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Project.deps.json
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Project.runtimeconfig.json
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Project.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Project.pdb
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.AssemblyInfoInputs.cache
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.AssemblyInfo.cs
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.csproj.CoreCompileInputs.cache
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.MvcApplicationPartsAssemblyInfo.cache
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.RazorAssemblyInfo.cache
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.RazorAssemblyInfo.cs
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/staticwebassets.build.json
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/staticwebassets.development.json
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/staticwebassets/msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/staticwebassets/msbuild.build.Project.props
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Project.props
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Project.props
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/scopedcss/bundle/Project.styles.css
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/scopedcss/projectbundle/Project.bundle.scp.css
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.dll
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/refint/Project.dll
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.pdb
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.genruntimeconfig.cache
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/ref/Project.dll
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/bin/Debug/net8.0/appsettings.Development.json
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/bin/Debug/net8.0/appsettings.json
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/bin/Debug/net8.0/Project.staticwebassets.runtime.json
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/bin/Debug/net8.0/Project
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/bin/Debug/net8.0/Project.deps.json
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/bin/Debug/net8.0/Project.runtimeconfig.json
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/bin/Debug/net8.0/Project.dll
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/bin/Debug/net8.0/Project.pdb
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/Project.AssemblyInfoInputs.cache
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/Project.AssemblyInfo.cs
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/Project.csproj.CoreCompileInputs.cache
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/Project.MvcApplicationPartsAssemblyInfo.cache
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/Project.RazorAssemblyInfo.cache
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/Project.RazorAssemblyInfo.cs
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/staticwebassets.build.json
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/staticwebassets.development.json
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/staticwebassets/msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/staticwebassets/msbuild.build.Project.props
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Project.props
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Project.props
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/scopedcss/bundle/Project.styles.css
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/scopedcss/projectbundle/Project.bundle.scp.css
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/Project.dll
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/refint/Project.dll
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/Project.pdb
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/Project.genruntimeconfig.cache
+/Users/batuhanfidan/Desktop/Bilkent/CTIS/Semester 4/256/Project/obj/Debug/net8.0/ref/Project.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Humanizer.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Npgsql.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/System.CodeDom.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.csproj.AssemblyReference.cache
+/Users/batuhanfidan/Desktop/Project/obj/Debug/net8.0/Project.csproj.Up2Date
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/batuhanfidan/Desktop/Project/bin/Debug/net8.0/System.Security.Permissions.dll

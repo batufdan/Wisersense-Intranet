@@ -1,0 +1,18 @@
+@page
+@using Project.pages
+@model AdminModel
+@{
+    ViewData["Title"] = "Admin Page";
+    Layout = "_AdminLayout";
+}
+
+<div class="buttons">
+    <form method="post">
+        <button type="submit" value="AddUser" name="adminTask"><span>Add User</span></button>
+        <button type="submit" value="EditUser" name="adminTask"><span>Edit User</span></button>
+        <button type="submit" value="AddPlan" name="adminTask"><span>Add Plan</span></button>
+        <button type="submit" value="EditPlan" name="adminTask"><span>Edit Plan</span></button>
+        <button type="submit" value="AddNew" name="adminTask"><span>Add New</span></button>
+        <button type="submit" value="EditNews" name="adminTask"><span>Edit News</span></button>
+    </form>
+</div>

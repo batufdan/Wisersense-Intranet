@@ -1,0 +1,47 @@
+@page
+@model AddNewModel
+@{
+    ViewData["Title"] = "Add New Page";
+    Layout = "_AdminTaskLayout";
+}
+
+<link rel="stylesheet" href="~/css/addUser.css">
+
+<div class="add_user_form">
+    <h2>Add New</h2>
+	<div class="container">
+		<form method="post">
+			<div class="title">
+				<h2>New Information</h2>
+			</div> 
+			<div class="infoBox">
+				<div class="info">
+					<label class="form-label" for="name">Name</label> 
+					<input type="text" class="form-control" name="name"> 
+				</div>
+				<div class="info">
+					<label class="form-label" for="author">Author</label>
+					<input type="text" class="form-control" name="author">
+				</div>
+				<div class="info">
+					<label class="form-label" for="date">Date</label>
+					<input type="text" class="form-control" name="date">
+				</div>
+				<div class="info">
+					<label class="form-label" for="image">Image</label>
+					<input type="text" class="form-control" name="image">
+				</div>
+				@* <div class="info">
+					<label class="form-label" for="admin">Admin</label>
+					<select name="admin" class="adminSelect">
+						<option value="1">Yes</option>
+						<option value="0">No</option>
+					</select>
+				</div> *@
+				<div class="btnBox">
+					<button class="btn" type="submit" name="adminTask" value="addNewNew">Add New</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>

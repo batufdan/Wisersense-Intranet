@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link rel="stylesheet" href="~/Project.styles.css"/>
+    <link rel="stylesheet" href="~/css/HomeSub.css"/>
+</head>
+<body>
+    <header>
+        <div class="head">
+            <div class="logo">
+                <img src="~/files/logo.png" id="wisersense_logo">
+            </div>
+            <div class="header_link">
+                <div class="home_link">
+                    <a asp-page="../Home">Home</a>
+                </div>
+            </div>
+            <div class="header_link">
+                <div class="dropdown">
+                    <button class="dropbtn">Dropdown 
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
+                    </div>
+                </div>
+            </div>
+            <div class="header_link">
+                <div class="dropdown">
+                    <button class="dropbtn">Dropdown 
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
+                    </div>
+                </div>
+            </div>
+            <div class="header_link">
+                <div class="dropdown">
+                    <button class="dropbtn">Dropdown 
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
+                    </div>
+                </div>
+            </div>
+            <div class="header_link">
+                <div class="dropdown">
+                    <button class="dropbtn">Dropdown 
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
+                    </div>
+                </div>
+            </div>
+            <div class="header_link">
+                <form method="post">
+                    <button type="submit" name="homeTask" value="logout">Log Out</button>
+                </form>
+            </div>
+            <div class="header_link">
+                <form method="post">
+                    <button type="submit" name="homeTask" value="goback">Go Back</button>
+                </form>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

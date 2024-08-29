@@ -1,0 +1,32 @@
+@page
+@model EditPlanModel
+@{
+    ViewData["Title"] = "Edit Plan Page";
+    Layout = "_AdminTaskLayout";
+}
+
+<link rel="stylesheet" href="~/css/editUser.css">
+
+<div class="userTable">
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Type</th>
+            <th></th>
+            <th></th>
+        </tr>
+        
+        @foreach(var plan in @Model.Plans) {
+            <tr>
+                <td>@plan.name</td>
+                <td>@plan.date</td>
+                <td>@plan.time</td>
+                <td>@plan.type</td>
+                <td><a asp-page="/Admin/EditSpecificPlan" asp-route-type="edit" asp-route-sendName="@plan.name"><i class="fas fa-edit"></i></a></td>
+                <td><a asp-page="" asp-route-type="delete" asp-route-sendName="@plan.name"><i class="fa fa-trash" aria-hidden="true"></i></a></td>
+            </tr>
+        }
+    </table>
+</div>

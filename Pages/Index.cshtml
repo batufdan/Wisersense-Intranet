@@ -1,0 +1,50 @@
+@page
+@model SigninModel
+@{
+	Layout = "_SigninLayout";
+	ViewData["Title"] = "Wisersense Intranet";
+}
+
+<div id="signin_header">
+	<h2>Welcome</h2>
+	<h2>To</h2>
+	<img src="~/files/logo.png"> 
+	<h2>Intranet</h2>
+</div>
+
+<div class="container" id="container">
+	<div class="form-container sign-up-container">
+		<form method="post">
+            <h1 id="createTitle">Admin</h1>
+			<input type="text" placeholder="Email" name="email" value = ""/>
+			<input type="password" placeholder="Password" name="pass"/>
+			<input type="hidden" name="id" value="2">
+			<button type="submit">Sign In</button>
+			<span style="color: darkcyan; font-weight: bold; padding-top: 10px; font-size: 20px;">@Model.error</span>
+		</form>
+	</div>
+	<div class="form-container sign-in-container">
+		<form method="post">
+			<h1 id="signin">Sign in</h1>
+			<input type="text" placeholder="Email" name = "email" value = ""/>
+			<input type="password" placeholder="Password" name = "pass" />
+			<input type="hidden" name="id" value="1">
+			<button type="submit">Sign In</button>
+			<span style="color: darkcyan; font-weight: bold; padding-top: 10px; font-size: 20px;">@Model.error</span>
+		</form>
+	</div>
+	<div class="overlay-container">
+		<div class="overlay">
+			<div class="overlay-panel overlay-left">
+				<h1>All Employees</h1>
+				<p>Press Below</p>
+				<button class="ghost" id="signIn">Sign In</button>
+			</div>
+			<div class="overlay-panel overlay-right">
+				<h1>Are you an admin?</h1>
+				<p>Please Press Below</p>
+				<button class="ghost" id="signUp">Sign In</button>
+			</div>
+		</div>
+	</div>
+</div>

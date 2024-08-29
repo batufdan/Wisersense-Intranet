@@ -1,0 +1,279 @@
+﻿@page
+@model HomeModel
+@{
+    ViewData["Title"] = "Home page";
+    int birthDayCount = 0;
+    int planCount = 0;
+}
+
+<div class="welcome">
+    Welcome, <span>@Model.CUser.fullname</span>
+</div>
+
+<div class="main_content">
+    <div class="row">
+        <div class="message_CEO">
+            <b>A Message from the CEO</b>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit magnam totam incidunt libero, rerum ex doloribus quidem laboriosam amet aliquid.
+            <br>        
+            <br>        
+            <input type="button" value="Learn More" id="learn_more">
+        </div>
+        <div class="video_CEO">
+            <iframe width="580" height="400" src="https://www.youtube.com/embed/DFKonyv-aOY" title="WiserSense / Seamless Machine Health Monitoring Solutions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div class="row_one_third">
+            <div class="row_one_third_content">
+                <img src="~/files/row_one_third.png">
+                <div class="row_one_third_content_info">
+                    <b>Lorem ipsum, dolor sit amet consectetur adipisicing.</b> <br> <br>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                </div>
+            </div>
+            <div class="row_one_third_content">
+                <img src="~/files/row_one_third.png">
+                <div class="row_one_third_content_info">
+                    <b>Lorem ipsum dolor sit amet consectetur adipisicing.</b> <br> <br>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                </div>
+            </div>
+            <div class="row_one_third_content">
+                <img src="~/files/row_one_third.png">
+                <div class="row_one_third_content_info">
+                    <b>Lorem ipsum dolor sit amet consectetur adipisicing.</b> <br> <br>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="row_two_first">
+            <div class="row_two_first_up">
+                <div class="row_two_first_icon">
+                    <img src="~/files/projects.png">
+                    <span>Projects</span>
+                </div>
+                <div class="row_two_first_icon">
+                    <img src="~/files/firstaidkit.png">
+                    <span>Benefits</span>
+                </div>
+                <div class="row_two_first_icon">
+                    <img src="~/files/helpdesk.png">
+                    <span>Helpdesk</span>
+                </div>
+                <div class="row_two_first_icon">
+                    <img src="~/files/reports.png">
+                    <span>Reports</span>
+                </div>
+                <div class="row_two_first_icon">
+                    <img src="~/files/directory.png">
+                    <span>Directory</span>
+                </div>
+            </div>
+            <div class="row_two_first_down">
+                FORMS & TEMPLATES
+            </div>
+        </div>
+        
+        <div class="row_two_second">
+            <div id="calendar"></div>
+            <script src="~/js/calendar.js"></script>
+        </div>
+    </div>
+    <div class="row">
+        <div class="row_third_first">
+            <div class="row_third_first_subs">
+                Job Descriptions
+            </div>
+            <div class="row_third_first_subs">
+                Onboarding
+            </div>
+            <div class="row_third_first_subs">
+                Payroll
+            </div>
+            <div class="row_third_first_subs">
+                Performance Review
+            </div>
+            <div class="row_third_first_subs">
+                Photos
+            </div>
+            <div class="row_third_first_subs">
+                Privacy
+            </div>
+            <div class="row_third_first_subs">
+                Safety
+            </div>
+            <div class="row_third_first_subs">
+                SOPs
+            </div>
+            <div class="row_third_first_subs">
+                Weekly Menu
+            </div>
+        </div>
+        <div class="row_third_second">
+            @foreach(var plan in Model.Plans) {
+                if(planCount < 3) {
+                    string[] tempDate = plan.date.Split(new char[] { '-' }, StringSplitOptions.RemoveEmptyEntries);
+
+                    <div class="row_third_second_subs">
+                        <div class="row_third_second_subs_date">
+                            <b>@tempDate[0]</b> <br>
+                            @Model.months[int.Parse(tempDate[1]) - 1]
+                        </div>
+                        <div class="row_third_second_subs_info">
+                            <span>@plan.name</span> <br>
+                            <span>@plan.time</span>
+                        </div>
+                        <div class="row_third_second_subs_type">
+                            <div class="type">@plan.type</div>
+                        </div>
+                        <div class="row_third_second_subs_color">
+
+                        </div>
+                    </div>
+
+                    planCount++;
+                }
+            }
+        </div>
+    </div>
+    <div class="row">
+        <div class="row_forth_first">
+            <div class="row_forth_first_header">
+                NEWS CENTER
+            </div>
+            <div class="row_forth_first_content">
+                <div class="row_forth_first_content_filters">
+                    <div class="filter">
+                        All News
+                    </div>
+                    <div class="filter">
+                        Anouncements
+                    </div>
+                    <div class="filter">
+                        News
+                    </div>
+                    <div class="filter">
+                        Inside
+                    </div>
+                    <div class="filter">
+                        Milestones
+                    </div>
+                </div>
+                <div class="row_forth_first_content_news">
+                    <div class="news">
+                        <img src="~/files/row_one_third.png"> <br>
+                        <span>Author Author</span> - <span>February 15, 2024</span> <br>
+                        <span>Title Title Title Title Title</span>
+                    </div>
+                    <div class="news">
+                        <img src="~/files/row_one_third.png">
+                        <span>Author Author</span> - <span>February 15, 2024</span> <br>
+                        <span>Title Title Title Title Title</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row_forth_second">
+            <div class="row_forth_second_header">
+                BIRTHDAYS
+            </div>
+            <div class="row_forth_second_content">
+                @foreach(var user in Model.listUsers){
+                    if(birthDayCount < 6) {
+                        <div class="birthday">
+                            <div class="birthday_image">
+                                <img src="~/files/row_one_third.png">
+                            </div>
+                            <div class="birthday_content">
+                                <span>@user.fullname</span> <br>
+                                @{string[] tempDate = user.birthdate.Split(new char[] { '-' }, StringSplitOptions.RemoveEmptyEntries);}
+                                <span>Birthday on @Model.months[int.Parse(tempDate[1]) - 1], @tempDate[0]</span>
+                            </div>
+                        </div>
+                        birthDayCount++;
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <script>
+        $(function() {
+            $("#learn_more").on("click", function() {
+                var url = '@Url.Page("HomeSub/LearnMore")';
+                window.location.href = url;
+            })
+            $(".row_third_first_subs").on("click", function() {
+                let cont = $(this).text().replace(/\s+/g, '');
+                switch(cont) {
+                    case "JobDescriptions":
+                        var url = '@Url.Page("FormsTemplates/JobDescriptions")';
+                        break;
+                    case "Onboarding":
+                        var url = '@Url.Page("FormsTemplates/Onboarding")';
+                        break;
+                    case "Payroll":
+                        var url = '@Url.Page("FormsTemplates/Payroll")';
+                        break;
+                    case "PerformanceReview":
+                        var url = '@Url.Page("FormsTemplates/PerformanceReview")';
+                        break;
+                    case "Photos":
+                        var url = '@Url.Page("FormsTemplates/Photos")';
+                        break;
+                    case "Privacy":
+                        var url = '@Url.Page("FormsTemplates/Privacy")';
+                        break;
+                    case "Safety":
+                        var url = '@Url.Page("FormsTemplates/Safety")';
+                        break;
+                    case "SOPs":
+                        var url = '@Url.Page("FormsTemplates/SOPs")';
+                        break;
+                    case "WeeklyMenu":
+                        var url = '@Url.Page("FormsTemplates/WeeklyMenu")';
+                        break;
+                }
+                window.location.href = url;
+            })
+            $(".filter").on("click", function() {
+                @* var url = '@Url.Page("Index")';
+                window.location.href = url; *@
+            })
+            $(".news").on("click", function() {
+                @* var url = '@Url.Page("Index")';
+                window.location.href = url; *@
+            })
+            $(".row_two_first_icon").on("click", function() {
+                let cont = $(this).children().text();
+                switch(cont) {
+                    case "Projects":
+                        var url = '@Url.Page("HomeSub/Projects")';
+                        break;
+                    case "Benefits":
+                        var url = '@Url.Page("HomeSub/Benefits")';
+                        break;
+                    case "Reports":
+                        var url = '@Url.Page("HomeSub/Reports")';
+                        break;
+                    case "Helpdesk":
+                        var url = '@Url.Page("HomeSub/Helpdesk")';
+                        break;
+                    case "Directory":
+                        var url = '@Url.Page("HomeSub/Directory")';
+                        break;
+                }
+                window.location.href = url;
+            })
+            $(".row_one_third_content").on("click", function() {
+                @* var url = '@Url.Page("Index")';
+                window.location.href = url; *@
+            })
+        })
+    </script>
+}

@@ -1,0 +1,54 @@
+@page
+@model EditModel
+@{
+    ViewData["Title"] = "Edit User Page";
+    Layout = "_EditLayout";
+}
+
+<link rel="stylesheet" href="~/css/addUser.css">
+
+<div class="add_user_form">
+    <h2>Edit User</h2>
+	<div class="container">
+		<form method="post">
+			<div class="title">
+				<h2>User Information</h2>
+				<h6>Whenever you make a change, please give new password as well!!</h6>
+			</div> 
+			<div class="infoBox">
+				<div class="info">
+					<label class="form-label" for="email">Email</label> 
+					<input type="text" class="form-control" name="email" value="@Model.temp.email" readonly> 
+				</div>
+				<div class="info">
+					<label class="form-label" for="password">New Password</label>
+					<input type="password" class="form-control" name="password">
+				</div>
+				<div class="info">
+					<label class="form-label" for="fullname">Fullname</label>
+					<input type="text" class="form-control" name="fullname" value="@Model.temp.fullname">
+				</div>
+				<div class="info">
+					<label class="form-label" for="birthdate">Birthdate (DD-MM)</label>
+					<input type="text" class="form-control" name="birthdate" value="@Model.temp.birthdate">
+				</div>
+				<div class="info">
+					<label class="form-label" for="admin">Admin</label>
+					<select name="admin" class="adminSelect">
+						@if(Model.temp.admin == 1) {
+							<option value="1" selected>Yes</option>
+							<option value="0">No</option>
+						} else {
+							<option value="1">Yes</option>
+							<option value="0" selected>No</option>
+						}
+					</select>
+				</div>
+				<div class="btnBox">
+					<input type="hidden" name="image" value="@Model.temp.image">
+					<button class="btn" type="submit" name="adminTask" value="updateUser">Save User</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>

@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Project
+build_property.RootNamespace = Project
+build_property.ProjectDir = /Users/batuhanfidan/Desktop/Project/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/batuhanfidan/Desktop/Project
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Admin/AddNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQWRkTmV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Admin/AddPlan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQWRkUGxhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Admin/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQWRkVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Admin/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Admin/EditNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vRWRpdE5ld3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Admin/EditPlan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vRWRpdFBsYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Admin/EditSpecificPlan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vRWRpdFNwZWNpZmljUGxhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Admin/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/FormsTemplates/WeeklyMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXNUZW1wbGF0ZXMvV2Vla2x5TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/HomeSub/Benefits.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZVN1Yi9CZW5lZml0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/HomeSub/Directory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZVN1Yi9EaXJlY3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/HomeSub/Helpdesk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZVN1Yi9IZWxwZGVzay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/HomeSub/LearnMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZVN1Yi9MZWFybk1vcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/HomeSub/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZVN1Yi9Qcm9qZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/HomeSub/Reports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZVN1Yi9SZXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Shared/_AdminTaskLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19BZG1pblRhc2tMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Shared/_EditLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19FZGl0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Shared/_EditPlanLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19FZGl0UGxhbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Shared/_HomeSubLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Ib21lU3ViTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Shared/_SigninLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19TaWduaW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/batuhanfidan/Desktop/Project/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1oiykmu8kd
